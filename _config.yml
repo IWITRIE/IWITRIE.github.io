@@ -283,9 +283,9 @@ defaults:
   # _latex
    - scope:
       path: ""
-      type: talks
+      type: latex
     values:
-      layout: talk
+      layout: latex
       author_profile: true
       share: true
 
