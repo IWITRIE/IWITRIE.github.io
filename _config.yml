@@ -280,7 +280,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _latex
+   - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
