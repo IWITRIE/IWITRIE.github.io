@@ -1,5 +1,5 @@
 
-
+---
 permalink: /
 title: "NK大二蒟蒻的主页"
 author_profile: true
@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 # Welcome to My Homepage
 
