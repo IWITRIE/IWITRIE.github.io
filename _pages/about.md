@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 # Welcome to My Homepage
-
+ust to share knowledge, I will post some blogs in the future，including latex template, GA source code and some learning materials.
 ## Basic Introduction
 I am a student from the [School of NKCS](https://cc.nankai.edu.cn/) at [Nankai University](http://www.nankai.edu.cn/main.htm). My interests include computer vision, machine learning, and computational intelligence.
 
-## 
+## Why was the home page created
+
 ## Contact Me
 If you are interested in my research or projects, feel free to reach out to me through the following:
 - [Email](mailto:2310428@mail.nankai.edu.cn)
